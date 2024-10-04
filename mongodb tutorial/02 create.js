@@ -18,3 +18,6 @@ db.inventory.insertOne(
  ]);
 
 //  HII This is a comment to check the git branches switching
+//  HII This is a comment to check the git branches switching
+//  HII This is a comment to check the git branches switching
+//  HII This is a comment to check the git branches switching
